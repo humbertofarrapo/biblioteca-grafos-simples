@@ -1,4 +1,4 @@
-Esta biblioteca utiliza funcionalidades da biblioteca NetworkX e outras funções padrão do Python para realizar diversas operações em grafos, tais como:
+Esta biblioteca utiliza funcionalidades da biblioteca NetworkX e outras funções padrão da linguagem Python para realizar diversas operações em grafos, tais como:
 
 * Leitura de grafos a partir de arquivos;
 * Extração de informações sobre o grafo;
